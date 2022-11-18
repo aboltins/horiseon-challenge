@@ -195,6 +195,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/* correct heading element has been applied */
+.footer h4 {
     font-size: 20px;
 }
