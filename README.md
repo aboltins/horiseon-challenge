@@ -22,7 +22,7 @@ N/A
 
 ## Link to deployed application
 
-To be followed.
+https://aboltins.github.io/horiseon-challenge/
 
 ## License
 
