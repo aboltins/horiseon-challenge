@@ -14,7 +14,7 @@ The acceptance criterias for this challenge are:
 
 ## Screenshot 
 
-![Screenshot of Horiseon index page](/assets/images/challenge-demo.png "Optional Title")
+![Screenshot of Horiseon index page](/assets/images/challenge-demo.png "Horiseon Challenge")
 
 ## Installation
 
