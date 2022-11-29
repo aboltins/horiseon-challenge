@@ -20,6 +20,10 @@ The acceptance criterias for this challenge are:
 
 N/A
 
+## Link to deployed application
+
+To be followed.
+
 ## License
 
 This project is licensed under the MIT License.
