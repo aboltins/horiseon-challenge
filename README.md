@@ -9,7 +9,7 @@ The acceptance criterias for this challenge are:
 1:Semantic HTML elements can be found throughout the source code.
 2:HTML elements follow a logical structure independent of styling and positioning.
 3:Image and icon elements contain accessible alt attributes.
-4:Image and icon elements contain accessible alt attributes.
+4:Heading attributes fall in sequential order.
 5:Title elements contain a concise, descriptive title.
 
 ## Screenshot 
